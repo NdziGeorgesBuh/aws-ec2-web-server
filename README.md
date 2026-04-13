@@ -23,13 +23,14 @@ http://51.21.191.40
 
 ## Screenshots
 ### EC2 Instance
-![EC2](add-image-link-here)
+https://github.com/NdziGeorgesBuh/aws-ec2-web-server/blob/main/EC2.png?raw=true
 
 ### Security Group
-![Security](add-image-link-here)
+https://github.com/NdziGeorgesBuh/aws-ec2-web-server/blob/main/EC2NET.png?raw=true
 
 ### SSH Connection
-![SSH](add-image-link-here)
+https://github.com/NdziGeorgesBuh/aws-ec2-web-server/blob/main/Screenshot%20(105).png?raw=true
+https://github.com/NdziGeorgesBuh/aws-ec2-web-server/blob/main/Screenshot%20(97).png?raw=true
 
 ### Live Website
-![Website](add-image-link-here)
+https://github.com/NdziGeorgesBuh/aws-ec2-web-server/blob/main/EC2%20webpage.jpg?raw=true

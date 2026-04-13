@@ -22,4 +22,14 @@ The web server is live and accessible via:
 http://51.21.191.40
 
 ## Screenshots
-(To be added)
+### EC2 Instance
+![EC2](add-image-link-here)
+
+### Security Group
+![Security](add-image-link-here)
+
+### SSH Connection
+![SSH](add-image-link-here)
+
+### Live Website
+![Website](add-image-link-here)

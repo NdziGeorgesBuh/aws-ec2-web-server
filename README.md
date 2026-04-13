@@ -18,10 +18,14 @@ This project demonstrates how to deploy a web server on AWS EC2 and make it acce
 - SSH
 
 ## Result
-The web server is live and accessible via:
-http://51.21.191.40
+The web server was successfully deployed and tested on AWS EC2.
+
+The application was accessible via the instance’s public IPv4 address during runtime.
+
+Note: The instance is currently stopped to avoid costs, so the live link is not active.
 
 ## Screenshots
+
 ### EC2 Instance
 https://github.com/NdziGeorgesBuh/aws-ec2-web-server/blob/main/EC2.png?raw=true
 
